@@ -1,0 +1,27 @@
+#contenedor{
+    width: 968px;
+}
+
+
+#menu{
+
+    height: 25px;
+    width: 968px;
+    background-color: blue;
+
+}
+#slider{
+    height: 359px;
+    width: 968px;
+    background-color: chartreuse;
+}
+#cuerpo{
+    height: 700px;
+    background-color: chocolate;
+
+}
+#footer{
+    height: 50px;
+    width: 968px;
+    background-color: blueviolet;
+}
