@@ -1,0 +1,28 @@
+#cabecera {
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: x-large;
+text-align: center
+    
+    }
+#indice {
+text-transform: lowercase
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: large;
+
+    
+
+        }
+#contenido {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+            }
+#piedepagina {
+    font-weight:bold;
+
+
+    text-align: center
+            
+        
+                }
